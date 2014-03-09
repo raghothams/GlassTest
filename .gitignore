@@ -72,6 +72,9 @@ hs_err_pid*
 *.apk
 *.ap_
 
+# Genreated files
+gen/
+
 # Gradle files
 .gradle/
 build/
